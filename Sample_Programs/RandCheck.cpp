@@ -5,7 +5,7 @@ void main()
 {
 clrscr();
 randomize();
-for(int i=0;i<n;i++)
+for(int i=0;i<70;i++)
 cout<<"Random"<<random(490,500);
 
 getch();
