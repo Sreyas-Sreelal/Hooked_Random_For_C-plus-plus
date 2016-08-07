@@ -1,6 +1,6 @@
 /*Including Header*/
-#ifndef sreyas_h
-#define sreyas_h
+#ifndef SSRAND_H
+#define SSRAND_H
 #endif
 /*Inclusion of stdlib.h*/
 #ifndef stdlib_h
